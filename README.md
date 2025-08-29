@@ -1,0 +1,2 @@
+# sxmtoolsmenu
+discord.gg/sxmtools
